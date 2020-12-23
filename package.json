@@ -11,5 +11,13 @@
   "dependencies": {
     "express": "^4.17.1"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adil92/test.git"
+  },
+  "bugs": {
+    "url": "https://github.com/adil92/test/issues"
+  },
+  "homepage": "https://github.com/adil92/test#readme"
 }
